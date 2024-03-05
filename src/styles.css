@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+#main{
+    background-image: url(./assets/bg1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    background-attachment: fixed;
+  }
